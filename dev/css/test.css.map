@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "test.css",
+	"sources": [
+		"../scss/test.scss",
+		"../scss/helpers/_variables.scss"
+	],
+	"mappings": "AAEA,KAAK,AAAC,CACJ,UAAU,CCDF,OAAG,CDEX,SAAS,CAAE,IAAK,CACjB",
+	"names": []
+}
